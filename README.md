@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on<Full Stack Developer Projects>👯 I’m looking to collaborate on<anything>🤝 I’m looking for help with<ASP.NET>🌱 I’m currently learning<ASP.NET and SQL>💬 Ask me about<anything relted to stacks>⚡ Fun fact I am ENgineering Student with lot of energy...
 
 
 # 💻 Tech Stack:
