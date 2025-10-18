@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on CyberSecurity Projects<br>👯 I’m looking to collaborate on anything<br>🤝 I’m looking for help with CypberSecurity<br>🌱 I’m currently learning CyberSecurity<br>💬 Ask me about anything related to CyberSecurity<br>⚡️ Fun fact I am Engineering Student with lot of energy...
+🔭 I’m currently working on CyberSecurity Projects<br> 🤝 I’m looking for help with CypberSecurity<br>🌱 I’m currently learning CyberSecurity<br>⚡️ Fun fact I am Engineering Student with lot of energy...
 
 
 # 💻 Tech Stack:
