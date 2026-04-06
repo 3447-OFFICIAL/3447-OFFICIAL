@@ -1,16 +1,16 @@
 <div align="center">
 
 ## 💫 About Me
-🔭 I’m currently working on CyberSecurity Projects<br>
-🤝 I’m looking for help with CyberSecurity<br>
-🌱 I’m currently learning CyberSecurity<br>
-⚡️ Fun fact: I am an Engineering Student with a lot of energy...
+🔭 I am currently working on **Cybersecurity Projects**  
+🤝 I am open to collaboration and mentorship in **Cybersecurity**  
+🌱 I am continuously learning and expanding my expertise in **Cybersecurity**  
+⚡ Fun fact: I am an engineering student with high energy and a strong drive for innovation  
 
 ---
 
 ## 💼 Technology Portfolio & Core Competencies
 
- _Leveraging a diversified tooling ecosystem to deliver scalable, cloud-native and AI-driven solutions._
+_Leveraging a diversified tooling ecosystem to deliver scalable, cloud-native, and AI-driven solutions._
 
 ### 🧩 Programming & Scripting
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -68,7 +68,7 @@
 
 ## 📊 Performance Analytics & Contribution Metrics
 
- _Driving continuous innovation through scalable code delivery and cross-functional collaboration._
+_Driving continuous innovation through scalable code delivery and cross-functional collaboration._
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=3447-OFFICIAL&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true" />
@@ -82,7 +82,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3447-OFFICIAL&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
-
 ---
 
 ### ✍️ Random Dev Quote
@@ -90,6 +89,6 @@
 
 ---
 
-<img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
+<img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&theme=cobalt" />
 
 </div>
