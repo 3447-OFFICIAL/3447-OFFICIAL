@@ -1,8 +1,8 @@
 <div align="center">
 
 ## 💫 About Me
-🔭 I am currently working on **Cybersecurity Projects**  
-🤝 I am open to collaboration and mentorship in **Cybersecurity**  
+🔭 I am currently working on **Cybersecurity & AI/ML Projects**  
+🤝 I am open to collaboration and mentorship in **Cybersecurity & AI/ML**  
 🌱 I am continuously learning and expanding my expertise in **Cybersecurity**  
 ⚡ Fun fact: I am an engineering student with high energy and a strong drive for innovation  
 
