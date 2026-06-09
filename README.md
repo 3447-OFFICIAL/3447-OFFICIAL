@@ -54,7 +54,7 @@ By combining a rigorous academic approach to machine learning with adversarial s
         <li><strong>Status:</strong> Stable Release</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/3447-OFFICIAL/ai-hedge-fund"><b>View Repository ➔</b></a>
+        <a href="https://github.com/3447-OFFICIAL/ai-hedge-fund-simulator"><b>View Repository ➔</b></a>
       </p>
     </td>
   </tr>
@@ -184,16 +184,26 @@ My AI engineering portfolio is driven by a focus on scalable, autonomous decisio
 
 ---
 
-## 📈 GitHub Analytics Dashboard
+## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=3447-OFFICIAL&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=58A6FF&title_color=58A6FF" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=3447-OFFICIAL&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E" width="48%" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3447-OFFICIAL&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF" width="60%" />
-</div>
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=3447-OFFICIAL&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=3447-OFFICIAL&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3447-OFFICIAL&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3447-OFFICIAL&theme=github_dark" />
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=3447-OFFICIAL&theme=github_dark" />
+</p>
 
 ---
 
