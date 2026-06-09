@@ -34,15 +34,15 @@ By combining a rigorous academic approach to machine learning with adversarial s
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🛡️ AI Security Intelligence Platform</h3>
-      <p>A comprehensive threat intelligence and security operations platform designed to leverage AI for automated threat detection and incident response.</p>
+      <h3 align="center">🦅 VentureLens AI</h3>
+      <p>An elite, multi-agent platform designed for Venture Capital funds to automate technical, financial, and operational due diligence.</p>
       <ul>
-        <li><strong>Focus:</strong> Threat Detection, MITRE ATT&CK Mapping, Risk Assessment</li>
-        <li><strong>Capabilities:</strong> Automated Reporting, SIEM Integration</li>
+        <li><strong>Focus:</strong> Institutional Finance, Due Diligence Automation</li>
+        <li><strong>Capabilities:</strong> Monte Carlo Forecasting, Multi-Agent Analytics</li>
         <li><strong>Status:</strong> Active Development</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/3447-OFFICIAL/ai-security-platform"><b>View Repository ➔</b></a>
+        <a href="https://github.com/3447-OFFICIAL/VentureLens-AI"><b>View Repository ➔</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -215,7 +215,7 @@ timeline
 **🟢 Currently Building:**
 *   `AI Hedge Fund Simulator`
 *   `AI Equity Research Analyst`
-*   `Security Intelligence Platform`
+*   `VentureLens AI`
 
 **🟡 Currently Researching:**
 *   LLM Security & Prompt Injection Mitigations
