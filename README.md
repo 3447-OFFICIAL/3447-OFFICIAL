@@ -54,7 +54,7 @@ By combining a rigorous academic approach to machine learning with adversarial s
         <li><strong>Status:</strong> Stable Release</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/3447-OFFICIAL/ai-hedge-fund"><b>View Repository ➔</b></a>
+        <a href="[https://github.com/3447-OFFICIAL/ai-hedge-fund](https://github.com/3447-OFFICIAL/ai-hedge-fund-simulator)"><b>View Repository ➔</b></a>
       </p>
     </td>
   </tr>
