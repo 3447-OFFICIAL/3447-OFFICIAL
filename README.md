@@ -186,8 +186,6 @@ My AI engineering portfolio is driven by a focus on scalable, autonomous decisio
 
 ## 📊 GitHub Analytics
 
-## 📊 GitHub Analytics
-
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=3447-OFFICIAL&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="180em" src="https://streak-stats.demolab.com?user=3447-OFFICIAL&theme=tokyonight&hide_border=true" />
